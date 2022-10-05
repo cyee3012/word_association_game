@@ -1,4 +1,8 @@
 Coffee is a drink prepared from roasted coffee beans(keerat)
  It is the most popular hot drink in the world
  offee has a stimulating effect on humans, primarily due to its caffeine content
+
+ Spresso (Hooman)
+ Latte (Hooman)
+ Americano (Hooman)
  
